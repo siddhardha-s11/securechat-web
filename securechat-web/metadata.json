@@ -1,0 +1,5 @@
+{
+  "name": "SecureChat Web",
+  "description": "A secure, end-to-end encrypted messaging simulation using Web Crypto API (RSA-OAEP) and Gemini for smart drafting.",
+  "requestFramePermissions": []
+}
